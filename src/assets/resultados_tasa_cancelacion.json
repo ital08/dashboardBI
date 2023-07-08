@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Finalizado",
+        "value": 17417
+    },
+    {
+        "name": "No se presento el chofer",
+        "value": 1145
+    },
+    {
+        "name": "Cancelado por pasajero",
+        "value": 3976
+    },
+    {
+        "name": "Cancelado por conductor",
+        "value": 292
+    },
+    {
+        "name": "Falla o error",
+        "value": 249
+    },
+    {
+        "name": "No se presento el pasajero",
+        "value": 20
+    },
+    {
+        "name": "Error de calculo",
+        "value": 12
+    }
+]
