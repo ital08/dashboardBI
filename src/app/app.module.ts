@@ -10,6 +10,11 @@ import { TasaSolicitudesCancelacionComponent } from './graphs/tasa-solicitudes-c
 import { NgxEchartsModule } from 'ngx-echarts';
 import * as echarts from 'echarts';
 import { HttpClient } from '@angular/common/http';
+import { DistanciaRecorridaComponent } from './graphs/distancia-recorrida/distancia-recorrida.component';
+import { DistanciaRecorridaHistoricoComponent } from './graphs/distancia-recorrida-historico/distancia-recorrida-historico.component';
+import { IntervaloEntreAceptacionHistoricoComponent } from './graphs/intervalo-entre-aceptacion-historico/intervalo-entre-aceptacion-historico.component';
+import { PorcentajeAceptacionServicioHistoricoComponent } from './graphs/porcentaje-aceptacion-servicio-historico/porcentaje-aceptacion-servicio-historico.component';
+import { TasaSolicitudesCancelacionHistoricoComponent } from './graphs/tasa-solicitudes-cancelacion-historico/tasa-solicitudes-cancelacion-historico.component';
 
 @NgModule({
   declarations: [
@@ -18,6 +23,11 @@ import { HttpClient } from '@angular/common/http';
     PorcentajeAceptacionServicioComponent,
     IntervaloEntreAceptacionComponent,
     TasaSolicitudesCancelacionComponent,
+    DistanciaRecorridaComponent,
+    DistanciaRecorridaHistoricoComponent,
+    IntervaloEntreAceptacionHistoricoComponent,
+    PorcentajeAceptacionServicioHistoricoComponent,
+    TasaSolicitudesCancelacionHistoricoComponent,
   ],
   imports: [
     BrowserModule,

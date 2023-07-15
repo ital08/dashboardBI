@@ -172,7 +172,7 @@ export class TasaSolicitudesCancelacionComponent implements OnInit {
               },
               data: [
                 {
-                  value: total,
+                  value: 16.69,
                 },
               ],
             },

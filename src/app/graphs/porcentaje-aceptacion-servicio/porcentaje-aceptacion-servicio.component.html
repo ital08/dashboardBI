@@ -1,13 +1,15 @@
-<div class="flex flex-col p-2 py-4 h-full text-gray-500 relative">
-  <div class="flex flex-col text-center">
-    <div class="text-base font-bold uppercase">
-      INTERVALO ENTRE ACEPTACION DE VIAJE POR CHOFER
+<div class="flex flex-col p-2 h-full text-gray-500">
+  <div class="my-auto">
+    <div class="flex flex-col text-center">
+      <div class="text-base font-bold uppercase">
+        INTERVALO ENTRE ACEPTACION DE VIAJE POR CHOFER (Hrs)
+      </div>
     </div>
-  </div>
-  <div class="flex flex-col text-center">
-    <div class="font-bold text-5xl text-red-500 py-10">
-      {{ data?.overall_average_interval | number : "1.2-2" }} &nbsp; hrs
+    <div class="flex flex-col text-center">
+      <div class="font-bold text-5xl text-orange-500 py-10">
+        {{ data?.overall_average_interval | number : "1.2-2" }} &nbsp; hrs
+      </div>
+      <div class="text-sm">en promedio</div>
     </div>
-    <div class="text-sm">en promedio</div>
   </div>
 </div>

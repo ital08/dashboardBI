@@ -1,32 +1,61 @@
-<div class="w-screen h-screen">
+<div class="max-h-screen min-w-full">
   <div class="flex-col bg-black text-white p-4 gap-4">
-    <div class="flex-row p-4">
-      <img
-        class="overflow-hidden w-40 h-10 object-cover"
-        src="../assets/uber_logo.png"
-        alt="logo_uber"
-      />
+    <div class="flex flex-row p-4">
+      <div>
+        <img
+          class="overflow-hidden w-40 h-10 object-cover"
+          src="../assets/uber_logo.png"
+          alt="logo_uber"
+        />
+      </div>
+      <div class="toggle-container bg-gray-500 rounded-full">
+        <button
+          [ngClass]="{ active: toggleActive }"
+          (click)="toggleActive = !toggleActive"
+          class="toggle-button bg-blue-500"
+        >
+          {{ toggleActive ? "Histórico" : "Ultimos registros" }}
+        </button>
+      </div>
     </div>
-    <div class="flex-col p-4">
+
+    <div class="flex flex-col">
       <div class="bg-gray-500 rounded-3xl p-4">
-        <div class="flex flex-row space-x-2">
-          <div class="flex flex-col space-y-2">
-            <div class="bg-white rounded-3xl">
-              <app-tasa-solicitudes-cancelacion></app-tasa-solicitudes-cancelacion>
-            </div>
-
-            <div class="bg-white rounded-3xl">
-              <app-porcentaje-aceptacion-servicio></app-porcentaje-aceptacion-servicio>
-            </div>
-
-            <div class="bg-white rounded-3xl">
-              <app-intervalo-entre-aceptacion></app-intervalo-entre-aceptacion>
-            </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          <div class="bg-white rounded-3xl">
+            <ng-container *ngIf="!toggleActive">
+              <app-tasa-solicitudes-cancelacion></app-tasa-solicitudes-cancelacion
+            ></ng-container>
+            <ng-container *ngIf="toggleActive">
+              <app-tasa-solicitudes-cancelacion-historico></app-tasa-solicitudes-cancelacion-historico
+            ></ng-container>
           </div>
-          <div class="flex flex-col w-full h-full">
-            <div class="bg-white rounded-3xl">
-              <app-distrito-mayor-concurrencia></app-distrito-mayor-concurrencia>
-            </div>
+          <div class="bg-white rounded-3xl">
+            <ng-container *ngIf="!toggleActive">
+              <app-porcentaje-aceptacion-servicio></app-porcentaje-aceptacion-servicio
+            ></ng-container>
+            <ng-container *ngIf="toggleActive">
+              <app-porcentaje-aceptacion-servicio-historico></app-porcentaje-aceptacion-servicio-historico
+            ></ng-container>
+          </div>
+          <div class="bg-white rounded-3xl">
+            <ng-container *ngIf="!toggleActive">
+              <app-intervalo-entre-aceptacion></app-intervalo-entre-aceptacion
+            ></ng-container>
+            <ng-container *ngIf="toggleActive">
+              <app-intervalo-entre-aceptacion-historico></app-intervalo-entre-aceptacion-historico
+            ></ng-container>
+          </div>
+          <div class="bg-white rounded-3xl">
+            <ng-container *ngIf="!toggleActive">
+              <app-distancia-recorrida></app-distancia-recorrida
+            ></ng-container>
+            <ng-container *ngIf="toggleActive">
+              <app-distancia-recorrida-historico></app-distancia-recorrida-historico
+            ></ng-container>
+          </div>
+          <div class="bg-white rounded-3xl col-span-2">
+            <app-distrito-mayor-concurrencia></app-distrito-mayor-concurrencia>
           </div>
         </div>
       </div>

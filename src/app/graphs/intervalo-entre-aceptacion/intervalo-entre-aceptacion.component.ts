@@ -17,7 +17,7 @@ export class IntervaloEntreAceptacionComponent {
   mayorConcurrencia?: any;
 
   data: any = {
-    average_interval: 22.739593249675465,
+    average_interval: 23.46,
   };
 
   ctprvnList = [];

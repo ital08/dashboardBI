@@ -1,30 +1,62 @@
 [
     {
-        "name": "Finalizado",
-        "value": 17417
+        "month": "01",
+        "cancellation_rate": 18.43,
+        "total_trips": 575
     },
     {
-        "name": "No se presento el chofer",
-        "value": 1145
+        "month": "02",
+        "cancellation_rate": 18.31,
+        "total_trips": 770
     },
     {
-        "name": "Cancelado por pasajero",
-        "value": 3976
+        "month": "03",
+        "cancellation_rate": 19.68,
+        "total_trips": 986
     },
     {
-        "name": "Cancelado por conductor",
-        "value": 292
+        "month": "04",
+        "cancellation_rate": 21.75,
+        "total_trips": 1448
     },
     {
-        "name": "Falla o error",
-        "value": 249
+        "month": "05",
+        "cancellation_rate": 23.66,
+        "total_trips": 1585
     },
     {
-        "name": "No se presento el pasajero",
-        "value": 20
+        "month": "06",
+        "cancellation_rate": 21.66,
+        "total_trips": 1939
     },
     {
-        "name": "Error de calculo",
-        "value": 12
+        "month": "07",
+        "cancellation_rate": 16.89,
+        "total_trips": 1516
+    },
+    {
+        "month": "08",
+        "cancellation_rate": 18.68,
+        "total_trips": 2120
+    },
+    {
+        "month": "09",
+        "cancellation_rate": 18.78,
+        "total_trips": 2598
+    },
+    {
+        "month": "10",
+        "cancellation_rate": 16.91,
+        "total_trips": 3240
+    },
+    {
+        "month": "11",
+        "cancellation_rate": 15.76,
+        "total_trips": 3021
+    },
+    {
+        "month": "12",
+        "cancellation_rate": 16.69,
+        "total_trips": 3313
     }
 ]

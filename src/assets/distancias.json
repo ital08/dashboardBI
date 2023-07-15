@@ -1,0 +1,1514 @@
+[
+    {
+        "mes": "January",
+        "distritos": [
+            {
+                "name": "NINGUNO",
+                "total_distance": 46400.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 67048.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 10666.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 708514.0
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 583134.0
+            },
+            {
+                "name": "BARRANCO",
+                "total_distance": 130892.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 46587.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 43639.0
+            },
+            {
+                "name": "LA MOLINA",
+                "total_distance": 91865.0
+            },
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 669267.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 128284.0
+            },
+            {
+                "name": "SAN BORJA",
+                "total_distance": 120178.0
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "total_distance": 21030.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 126951.0
+            },
+            {
+                "name": "CALLAO",
+                "total_distance": 170921.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 113305.0
+            },
+            {
+                "name": "VENTANILLA",
+                "total_distance": 0.0
+            },
+            {
+                "name": "CARMEN DE LA LEGUA REYNOSO",
+                "total_distance": 0.0
+            },
+            {
+                "name": "LOS OLIVOS",
+                "total_distance": 0.0
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "total_distance": 20897.0
+            },
+            {
+                "name": "LIMA",
+                "total_distance": 76211.0
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "total_distance": 17236.0
+            },
+            {
+                "name": "SAN BARTOLO",
+                "total_distance": 49751.0
+            },
+            {
+                "name": "RIMAC",
+                "total_distance": 0.0
+            },
+            {
+                "name": "PUENTE PIEDRA",
+                "total_distance": 5757.0
+            },
+            {
+                "name": "SANTA ANITA",
+                "total_distance": 36623.0
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "total_distance": 165.0
+            },
+            {
+                "name": "SANTA MARIA DEL MAR",
+                "total_distance": 42685.0
+            },
+            {
+                "name": "LA PERLA",
+                "total_distance": 0.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 9263.0
+            }
+        ]
+    },
+    {
+        "mes": "February",
+        "distritos": [
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 698396.0
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "total_distance": 0.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 15333994.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 25924.0
+            },
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 1005049.0
+            },
+            {
+                "name": "CALLAO",
+                "total_distance": 212324.0
+            },
+            {
+                "name": "LA MOLINA",
+                "total_distance": 125308.0
+            },
+            {
+                "name": "LIMA",
+                "total_distance": 161138.0
+            },
+            {
+                "name": "NINGUNO",
+                "total_distance": 248014.0
+            },
+            {
+                "name": "SANTA ANITA",
+                "total_distance": 51251.0
+            },
+            {
+                "name": "PUNTA HERMOSA",
+                "total_distance": 48960.0
+            },
+            {
+                "name": "SAN BORJA",
+                "total_distance": 576662.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 70768.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 59183.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 150467.0
+            },
+            {
+                "name": "BARRANCO",
+                "total_distance": 56952.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 144770.0
+            },
+            {
+                "name": "LOS OLIVOS",
+                "total_distance": 34082.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 49029.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 7683.0
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "total_distance": 119250.0
+            },
+            {
+                "name": "BELLAVISTA",
+                "total_distance": 0.0
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "total_distance": 26660.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 60496.0
+            },
+            {
+                "name": "RIMAC",
+                "total_distance": 0.0
+            },
+            {
+                "name": "BREA'A",
+                "total_distance": 2285.0
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "total_distance": 796.0
+            }
+        ]
+    },
+    {
+        "mes": "March",
+        "distritos": [
+            {
+                "name": "LIMA",
+                "total_distance": 161744.0
+            },
+            {
+                "name": "CALLAO",
+                "total_distance": 683346.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 25661.0
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 797281.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 2010374.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 21195.0
+            },
+            {
+                "name": "LA MOLINA",
+                "total_distance": 134094.0
+            },
+            {
+                "name": "SAN BORJA",
+                "total_distance": 767630.0
+            },
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 1321457.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 36291.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 93464.0
+            },
+            {
+                "name": "NINGUNO",
+                "total_distance": 205386.0
+            },
+            {
+                "name": "BARRANCO",
+                "total_distance": 66949.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 40227.0
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "total_distance": 59284.0
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "total_distance": 46457.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 47659.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 82832.0
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "total_distance": 56648.0
+            },
+            {
+                "name": "PACHACAMAC",
+                "total_distance": 0.0
+            },
+            {
+                "name": "BREA'A",
+                "total_distance": 22417.0
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "total_distance": 19077.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 93852.0
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "total_distance": 4926.0
+            },
+            {
+                "name": "PUENTE PIEDRA",
+                "total_distance": 24802.0
+            }
+        ]
+    },
+    {
+        "mes": "April",
+        "distritos": [
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 2254280.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 65356.0
+            },
+            {
+                "name": "LIMA",
+                "total_distance": 317222.0
+            },
+            {
+                "name": "SAN BORJA",
+                "total_distance": 446558.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 263745.0
+            },
+            {
+                "name": "CALLAO",
+                "total_distance": 454962.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 2283786.0
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 1439671.0
+            },
+            {
+                "name": "LA MOLINA",
+                "total_distance": 265137.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 94508.0
+            },
+            {
+                "name": "SAN LUIS",
+                "total_distance": 72779.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 105555.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 51353.0
+            },
+            {
+                "name": "LOS OLIVOS",
+                "total_distance": 88792.0
+            },
+            {
+                "name": "BARRANCO",
+                "total_distance": 346046.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 248967.0
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "total_distance": 13165.0
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "total_distance": 14999.0
+            },
+            {
+                "name": "NINGUNO",
+                "total_distance": 44773.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 40663.0
+            },
+            {
+                "name": "SANTA ANITA",
+                "total_distance": 28347.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 98567.0
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "total_distance": 7506.0
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "total_distance": 18962.0
+            },
+            {
+                "name": "INDEPENDENCIA",
+                "total_distance": 15203.0
+            },
+            {
+                "name": "LURIN",
+                "total_distance": 42452.0
+            },
+            {
+                "name": "BREA'A",
+                "total_distance": 12620.0
+            }
+        ]
+    },
+    {
+        "mes": "May",
+        "distritos": [
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 2361850.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 1884752.0
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 1899362.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 179996.0
+            },
+            {
+                "name": "LA MOLINA",
+                "total_distance": 330591.0
+            },
+            {
+                "name": "CALLAO",
+                "total_distance": 662811.0
+            },
+            {
+                "name": "SAN BORJA",
+                "total_distance": 512558.0
+            },
+            {
+                "name": "BARRANCO",
+                "total_distance": 419917.0
+            },
+            {
+                "name": "BELLAVISTA",
+                "total_distance": 0.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 217718.0
+            },
+            {
+                "name": "LIMA",
+                "total_distance": 317392.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 170825.0
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "total_distance": 26081.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 40280.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 124067.0
+            },
+            {
+                "name": "LURIGANCHO",
+                "total_distance": 44761.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 79892.0
+            },
+            {
+                "name": "LOS OLIVOS",
+                "total_distance": 5626.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 81625.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 42405.0
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "total_distance": 35971.0
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "total_distance": 26519.0
+            },
+            {
+                "name": "INDEPENDENCIA",
+                "total_distance": 0.0
+            },
+            {
+                "name": "LA PUNTA",
+                "total_distance": 16555.0
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "total_distance": 53946.0
+            },
+            {
+                "name": "LURIN",
+                "total_distance": 21988.0
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "total_distance": 38216.0
+            },
+            {
+                "name": "EL AGUSTINO",
+                "total_distance": 13086.0
+            },
+            {
+                "name": "BREA'A",
+                "total_distance": 14051.0
+            },
+            {
+                "name": "SAN LUIS",
+                "total_distance": 0.0
+            }
+        ]
+    },
+    {
+        "mes": "June",
+        "distritos": [
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 2373419.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 69400.0
+            },
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 3486091.0
+            },
+            {
+                "name": "BARRANCO",
+                "total_distance": 379799.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 2654958.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 84400.0
+            },
+            {
+                "name": "LIMA",
+                "total_distance": 302375.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 108530.0
+            },
+            {
+                "name": "LA MOLINA",
+                "total_distance": 752519.0
+            },
+            {
+                "name": "CALLAO",
+                "total_distance": 1080865.0
+            },
+            {
+                "name": "SAN BORJA",
+                "total_distance": 605542.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 157158.0
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "total_distance": 8190.0
+            },
+            {
+                "name": "SAN LUIS",
+                "total_distance": 27910.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 116290.0
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "total_distance": 58268.0
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "total_distance": 22790.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 139084.0
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "total_distance": 253320.0
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "total_distance": 98280.0
+            },
+            {
+                "name": "LOS OLIVOS",
+                "total_distance": 39928.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 58310.0
+            },
+            {
+                "name": "RIMAC",
+                "total_distance": 0.0
+            },
+            {
+                "name": "BELLAVISTA",
+                "total_distance": 24290.0
+            },
+            {
+                "name": "SANTA ANITA",
+                "total_distance": 0.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 167220.0
+            },
+            {
+                "name": "BREA'A",
+                "total_distance": 21640.0
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "total_distance": 0.0
+            },
+            {
+                "name": "LA PERLA",
+                "total_distance": 11120.0
+            },
+            {
+                "name": "EL AGUSTINO",
+                "total_distance": 9672.0
+            }
+        ]
+    },
+    {
+        "mes": "July",
+        "distritos": [
+            {
+                "name": "SAN BORJA",
+                "total_distance": 607760.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 199480.0
+            },
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 1942730.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 2331140.0
+            },
+            {
+                "name": "LIMA",
+                "total_distance": 183000.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 163600.0
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 2427930.0
+            },
+            {
+                "name": "BARRANCO",
+                "total_distance": 392800.0
+            },
+            {
+                "name": "NINGUNO",
+                "total_distance": 29290.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 67290.0
+            },
+            {
+                "name": "SANTA ANITA",
+                "total_distance": 12860.0
+            },
+            {
+                "name": "LA MOLINA",
+                "total_distance": 697620.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 68370.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 105060.0
+            },
+            {
+                "name": "LA PUNTA",
+                "total_distance": 31910.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 141020.0
+            },
+            {
+                "name": "CALLAO",
+                "total_distance": 633320.0
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "total_distance": 116280.0
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "total_distance": 150120.0
+            },
+            {
+                "name": "SAN LUIS",
+                "total_distance": 31910.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 66960.0
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "total_distance": 91700.0
+            },
+            {
+                "name": "RIMAC",
+                "total_distance": 10420.0
+            },
+            {
+                "name": "CARMEN DE LA LEGUA REYNOSO",
+                "total_distance": 29540.0
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "total_distance": 28060.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 60760.0
+            },
+            {
+                "name": "LOS OLIVOS",
+                "total_distance": 23270.0
+            },
+            {
+                "name": "LA PERLA",
+                "total_distance": 8350.0
+            },
+            {
+                "name": "BREA'A",
+                "total_distance": 21970.0
+            },
+            {
+                "name": "COMAS",
+                "total_distance": 17320.0
+            },
+            {
+                "name": "BELLAVISTA",
+                "total_distance": 8870.0
+            }
+        ]
+    },
+    {
+        "mes": "August",
+        "distritos": [
+            {
+                "name": "CALLAO",
+                "total_distance": 1378600.0
+            },
+            {
+                "name": "LA MOLINA",
+                "total_distance": 737770.0
+            },
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 2553230.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 230100.0
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 2657240.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 3116780.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 91300.0
+            },
+            {
+                "name": "LURIGANCHO",
+                "total_distance": 0.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 167800.0
+            },
+            {
+                "name": "SAN BORJA",
+                "total_distance": 864180.0
+            },
+            {
+                "name": "BARRANCO",
+                "total_distance": 341000.0
+            },
+            {
+                "name": "LIMA",
+                "total_distance": 261060.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 159540.0
+            },
+            {
+                "name": "BREA'A",
+                "total_distance": 13740.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 158950.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 179690.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 207520.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 224480.0
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "total_distance": 283000.0
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "total_distance": 20110.0
+            },
+            {
+                "name": "SAN LUIS",
+                "total_distance": 32570.0
+            },
+            {
+                "name": "LA PERLA",
+                "total_distance": 11480.0
+            },
+            {
+                "name": "LOS OLIVOS",
+                "total_distance": 47160.0
+            },
+            {
+                "name": "PACHACAMAC",
+                "total_distance": 33180.0
+            },
+            {
+                "name": "INDEPENDENCIA",
+                "total_distance": 17850.0
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "total_distance": 51850.0
+            },
+            {
+                "name": "SANTA ANITA",
+                "total_distance": 39700.0
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "total_distance": 9660.0
+            },
+            {
+                "name": "NINGUNO",
+                "total_distance": 19770.0
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "total_distance": 47440.0
+            }
+        ]
+    },
+    {
+        "mes": "September",
+        "distritos": [
+            {
+                "name": "LA MOLINA",
+                "total_distance": 954990.0
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 3577860.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 3044670.0
+            },
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 2525090.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 406190.0
+            },
+            {
+                "name": "BARRANCO",
+                "total_distance": 487660.0
+            },
+            {
+                "name": "CALLAO",
+                "total_distance": 1113530.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 179150.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 185600.0
+            },
+            {
+                "name": "SAN BORJA",
+                "total_distance": 868300.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 292870.0
+            },
+            {
+                "name": "LIMA",
+                "total_distance": 298720.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 115160.0
+            },
+            {
+                "name": "RIMAC",
+                "total_distance": 30350.0
+            },
+            {
+                "name": "PUENTE PIEDRA",
+                "total_distance": 8000.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 491170.0
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "total_distance": 30340.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 257010.0
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "total_distance": 79980.0
+            },
+            {
+                "name": "BELLAVISTA",
+                "total_distance": 87750.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 64080.0
+            },
+            {
+                "name": "BREA'A",
+                "total_distance": 21460.0
+            },
+            {
+                "name": "LOS OLIVOS",
+                "total_distance": 93520.0
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "total_distance": 21120.0
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "total_distance": 29050.0
+            },
+            {
+                "name": "CHACLACAYO",
+                "total_distance": 0.0
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "total_distance": 14730.0
+            },
+            {
+                "name": "LURIN",
+                "total_distance": 0.0
+            },
+            {
+                "name": "NINGUNO",
+                "total_distance": 25710.0
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "total_distance": 75720.0
+            },
+            {
+                "name": "CARMEN DE LA LEGUA REYNOSO",
+                "total_distance": 12230.0
+            },
+            {
+                "name": "SAN LUIS",
+                "total_distance": 3400.0
+            },
+            {
+                "name": "SANTA ANITA",
+                "total_distance": 42680.0
+            }
+        ]
+    },
+    {
+        "mes": "October",
+        "distritos": [
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 3037390.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 3882660.0
+            },
+            {
+                "name": "SAN BORJA",
+                "total_distance": 1232360.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 176840.0
+            },
+            {
+                "name": "LA MOLINA",
+                "total_distance": 1377060.0
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 4947120.0
+            },
+            {
+                "name": "CALLAO",
+                "total_distance": 1767530.0
+            },
+            {
+                "name": "BARRANCO",
+                "total_distance": 539670.0
+            },
+            {
+                "name": "BREA'A",
+                "total_distance": 28870.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 398810.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 499870.0
+            },
+            {
+                "name": "LIMA",
+                "total_distance": 352130.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 157740.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 152180.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 243410.0
+            },
+            {
+                "name": "LURIN",
+                "total_distance": 131410.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 197270.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 98910.0
+            },
+            {
+                "name": "LA PUNTA",
+                "total_distance": 0.0
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "total_distance": 9940.0
+            },
+            {
+                "name": "INDEPENDENCIA",
+                "total_distance": 22540.0
+            },
+            {
+                "name": "BELLAVISTA",
+                "total_distance": 0.0
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "total_distance": 20290.0
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "total_distance": 43250.0
+            },
+            {
+                "name": "NINGUNO",
+                "total_distance": 41520.0
+            },
+            {
+                "name": "SAN LUIS",
+                "total_distance": 0.0
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "total_distance": 28500.0
+            },
+            {
+                "name": "COMAS",
+                "total_distance": 0.0
+            },
+            {
+                "name": "RIMAC",
+                "total_distance": 33920.0
+            },
+            {
+                "name": "LOS OLIVOS",
+                "total_distance": 23610.0
+            },
+            {
+                "name": "SANTA ANITA",
+                "total_distance": 14870.0
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "total_distance": 0.0
+            }
+        ]
+    },
+    {
+        "mes": "November",
+        "distritos": [
+            {
+                "name": "BARRANCO",
+                "total_distance": 588396.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 12256276.0
+            },
+            {
+                "name": "SAN BORJA",
+                "total_distance": 9680699.0
+            },
+            {
+                "name": "LA MOLINA",
+                "total_distance": 9766825.0
+            },
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 11856319.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 190508.0
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 22420166.0
+            },
+            {
+                "name": "BELLAVISTA",
+                "total_distance": 14020.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 212052.0
+            },
+            {
+                "name": "LIMA",
+                "total_distance": 574801.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 843204.0
+            },
+            {
+                "name": "LOS OLIVOS",
+                "total_distance": 13526.0
+            },
+            {
+                "name": "CALLAO",
+                "total_distance": 1614256.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 126040.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 350995.0
+            },
+            {
+                "name": "PUNTA HERMOSA",
+                "total_distance": 40240.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 112541.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 285463.0
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "total_distance": 44696.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 149279.0
+            },
+            {
+                "name": "RIMAC",
+                "total_distance": 66592.0
+            },
+            {
+                "name": "BREA'A",
+                "total_distance": 75553.0
+            },
+            {
+                "name": "PACHACAMAC",
+                "total_distance": 49.0
+            },
+            {
+                "name": "LURIN",
+                "total_distance": 0.0
+            },
+            {
+                "name": "LURIGANCHO",
+                "total_distance": 241202.0
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "total_distance": 168541.0
+            },
+            {
+                "name": "CARMEN DE LA LEGUA REYNOSO",
+                "total_distance": 88623.0
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "total_distance": 9090.0
+            },
+            {
+                "name": "NINGUNO",
+                "total_distance": 17723.0
+            },
+            {
+                "name": "SANTA ANITA",
+                "total_distance": 88606.0
+            },
+            {
+                "name": "SAN LUIS",
+                "total_distance": 8601426.0
+            },
+            {
+                "name": "EL AGUSTINO",
+                "total_distance": 29184.0
+            }
+        ]
+    },
+    {
+        "mes": "December",
+        "distritos": [
+            {
+                "name": "SAN BORJA",
+                "total_distance": 1124993.0
+            },
+            {
+                "name": "MIRAFLORES",
+                "total_distance": 3874317.0
+            },
+            {
+                "name": "LA MOLINA",
+                "total_distance": 1486068.0
+            },
+            {
+                "name": "SAN ISIDRO",
+                "total_distance": 12403402.0
+            },
+            {
+                "name": "CALLAO",
+                "total_distance": 1128345.0
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "total_distance": 5567638.0
+            },
+            {
+                "name": "LA VICTORIA",
+                "total_distance": 282238.0
+            },
+            {
+                "name": "SURQUILLO",
+                "total_distance": 18189373.0
+            },
+            {
+                "name": "CHORRILLOS",
+                "total_distance": 318544.0
+            },
+            {
+                "name": "BARRANCO",
+                "total_distance": 691343.0
+            },
+            {
+                "name": "JESUS MARIA",
+                "total_distance": 390861.0
+            },
+            {
+                "name": "NINGUNO",
+                "total_distance": 151213.0
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "total_distance": 68364.0
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "total_distance": 140525.0
+            },
+            {
+                "name": "LIMA",
+                "total_distance": 216394.0
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "total_distance": 86792.0
+            },
+            {
+                "name": "LINCE",
+                "total_distance": 162068.0
+            },
+            {
+                "name": "ATE",
+                "total_distance": 154431.0
+            },
+            {
+                "name": "BREA'A",
+                "total_distance": 19169.0
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "total_distance": 24849.0
+            },
+            {
+                "name": "LOS OLIVOS",
+                "total_distance": 81162.0
+            },
+            {
+                "name": "SAN MIGUEL",
+                "total_distance": 95110.0
+            },
+            {
+                "name": "LA PERLA",
+                "total_distance": 8176.0
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "total_distance": 21607.0
+            },
+            {
+                "name": "RIMAC",
+                "total_distance": 54280.0
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "total_distance": 83395.0
+            },
+            {
+                "name": "SAN LUIS",
+                "total_distance": 124145.0
+            },
+            {
+                "name": "LA PUNTA",
+                "total_distance": 0.0
+            },
+            {
+                "name": "CHACLACAYO",
+                "total_distance": 34229.0
+            },
+            {
+                "name": "LURIGANCHO",
+                "total_distance": 104171.0
+            },
+            {
+                "name": "PUNTA HERMOSA",
+                "total_distance": 0.0
+            },
+            {
+                "name": "LURIN",
+                "total_distance": 120090.0
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "total_distance": 41550.0
+            },
+            {
+                "name": "SANTA ANITA",
+                "total_distance": 4861.0
+            },
+            {
+                "name": "EL AGUSTINO",
+                "total_distance": 11523.0
+            },
+            {
+                "name": "INDEPENDENCIA",
+                "total_distance": 29281.0
+            }
+        ]
+    }
+]

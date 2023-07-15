@@ -1,0 +1,42 @@
+{
+    "average_intervals_per_month": {
+        
+        {
+            "month": "June",
+            "average_interval": 18.86
+        }, {
+            "month": "July",
+            "average_interval": 18.81
+        },{
+            "month": "August",
+            "average_interval": 23.13
+        },{
+            "month": "September",
+            "average_interval": 15.9
+        }, {
+            "month": "October",
+            "average_interval": 16.45
+        },{
+            "month": "November",
+            "average_interval": 13.78
+        }, {
+            "month": "December",
+            "average_interval": 14.69
+        },{
+            "month": "January",
+            "average_interval": 56.57
+        }, {
+            "month": "February",
+            "average_interval": 37.79
+        }, {
+            "month": "March",
+            "average_interval": 45.52
+        }, {
+            "month": "April",
+            "average_interval": 26.93
+        }, {
+            "month": "May",
+            "average_interval": 28.93
+        }
+    }
+}

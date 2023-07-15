@@ -17,7 +17,7 @@ export class PorcentajeAceptacionServicioComponent {
   mayorConcurrencia?: any;
 
   data: any = {
-    overall_average_interval: 23.72,
+    overall_average_interval: 14.69,
   };
 
   ctprvnList = [];

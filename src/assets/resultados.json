@@ -1,202 +1,1514 @@
 [
     {
-        "name": "BARRANCO",
-        "value": 674
+        "mes": "January",
+        "distritos": [
+            {
+                "name": "NINGUNO",
+                "value": 12
+            },
+            {
+                "name": "LINCE",
+                "value": 9
+            },
+            {
+                "name": "ATE",
+                "value": 3
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 147
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 117
+            },
+            {
+                "name": "BARRANCO",
+                "value": 18
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 7
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 6
+            },
+            {
+                "name": "LA MOLINA",
+                "value": 10
+            },
+            {
+                "name": "MIRAFLORES",
+                "value": 106
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 27
+            },
+            {
+                "name": "SAN BORJA",
+                "value": 25
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "value": 5
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 23
+            },
+            {
+                "name": "CALLAO",
+                "value": 17
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 12
+            },
+            {
+                "name": "VENTANILLA",
+                "value": 1
+            },
+            {
+                "name": "CARMEN DE LA LEGUA REYNOSO",
+                "value": 1
+            },
+            {
+                "name": "LOS OLIVOS",
+                "value": 1
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "value": 3
+            },
+            {
+                "name": "LIMA",
+                "value": 13
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "value": 1
+            },
+            {
+                "name": "SAN BARTOLO",
+                "value": 1
+            },
+            {
+                "name": "RIMAC",
+                "value": 1
+            },
+            {
+                "name": "PUENTE PIEDRA",
+                "value": 2
+            },
+            {
+                "name": "SANTA ANITA",
+                "value": 3
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "value": 1
+            },
+            {
+                "name": "SANTA MARIA DEL MAR",
+                "value": 1
+            },
+            {
+                "name": "LA PERLA",
+                "value": 1
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 1
+            }
+        ]
     },
     {
-        "name": "SANTIAGO DE SURCO",
-        "value": 5304
+        "mes": "February",
+        "distritos": [
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 123
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "value": 1
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 219
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 17
+            },
+            {
+                "name": "MIRAFLORES",
+                "value": 149
+            },
+            {
+                "name": "CALLAO",
+                "value": 26
+            },
+            {
+                "name": "LA MOLINA",
+                "value": 16
+            },
+            {
+                "name": "LIMA",
+                "value": 10
+            },
+            {
+                "name": "NINGUNO",
+                "value": 14
+            },
+            {
+                "name": "SANTA ANITA",
+                "value": 14
+            },
+            {
+                "name": "PUNTA HERMOSA",
+                "value": 1
+            },
+            {
+                "name": "SAN BORJA",
+                "value": 63
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 7
+            },
+            {
+                "name": "LINCE",
+                "value": 10
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 38
+            },
+            {
+                "name": "BARRANCO",
+                "value": 9
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 25
+            },
+            {
+                "name": "LOS OLIVOS",
+                "value": 2
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 9
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 2
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "value": 2
+            },
+            {
+                "name": "BELLAVISTA",
+                "value": 1
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "value": 3
+            },
+            {
+                "name": "ATE",
+                "value": 5
+            },
+            {
+                "name": "RIMAC",
+                "value": 1
+            },
+            {
+                "name": "BREÑA",
+                "value": 2
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "value": 1
+            }
+        ]
     },
     {
-        "name": "MIRAFLORES",
-        "value": 5095
+        "mes": "March",
+        "distritos": [
+            {
+                "name": "LIMA",
+                "value": 21
+            },
+            {
+                "name": "CALLAO",
+                "value": 52
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 4
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 156
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 325
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 7
+            },
+            {
+                "name": "LA MOLINA",
+                "value": 15
+            },
+            {
+                "name": "SAN BORJA",
+                "value": 79
+            },
+            {
+                "name": "MIRAFLORES",
+                "value": 212
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 10
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 17
+            },
+            {
+                "name": "NINGUNO",
+                "value": 6
+            },
+            {
+                "name": "BARRANCO",
+                "value": 13
+            },
+            {
+                "name": "LINCE",
+                "value": 7
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "value": 10
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "value": 2
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 13
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 14
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "value": 4
+            },
+            {
+                "name": "PACHACAMAC",
+                "value": 1
+            },
+            {
+                "name": "BREÑA",
+                "value": 3
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "value": 1
+            },
+            {
+                "name": "ATE",
+                "value": 10
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "value": 3
+            },
+            {
+                "name": "PUENTE PIEDRA",
+                "value": 1
+            }
+        ]
     },
     {
-        "name": "LA MOLINA",
-        "value": 1031
+        "mes": "April",
+        "distritos": [
+            {
+                "name": "MIRAFLORES",
+                "value": 385
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 15
+            },
+            {
+                "name": "LIMA",
+                "value": 50
+            },
+            {
+                "name": "SAN BORJA",
+                "value": 78
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 26
+            },
+            {
+                "name": "CALLAO",
+                "value": 38
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 398
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 231
+            },
+            {
+                "name": "LA MOLINA",
+                "value": 35
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 20
+            },
+            {
+                "name": "SAN LUIS",
+                "value": 9
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 24
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 9
+            },
+            {
+                "name": "LOS OLIVOS",
+                "value": 4
+            },
+            {
+                "name": "BARRANCO",
+                "value": 39
+            },
+            {
+                "name": "ATE",
+                "value": 40
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "value": 1
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "value": 2
+            },
+            {
+                "name": "NINGUNO",
+                "value": 5
+            },
+            {
+                "name": "LINCE",
+                "value": 10
+            },
+            {
+                "name": "SANTA ANITA",
+                "value": 3
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 17
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "value": 2
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "value": 2
+            },
+            {
+                "name": "INDEPENDENCIA",
+                "value": 1
+            },
+            {
+                "name": "LURIN",
+                "value": 2
+            },
+            {
+                "name": "BREÑA",
+                "value": 2
+            }
+        ]
     },
     {
-        "name": "CALLAO",
-        "value": 949
+        "mes": "May",
+        "distritos": [
+            {
+                "name": "MIRAFLORES",
+                "value": 406
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 390
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 294
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 19
+            },
+            {
+                "name": "LA MOLINA",
+                "value": 51
+            },
+            {
+                "name": "CALLAO",
+                "value": 47
+            },
+            {
+                "name": "SAN BORJA",
+                "value": 78
+            },
+            {
+                "name": "BARRANCO",
+                "value": 65
+            },
+            {
+                "name": "BELLAVISTA",
+                "value": 3
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 42
+            },
+            {
+                "name": "LIMA",
+                "value": 52
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 26
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "value": 5
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 16
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 23
+            },
+            {
+                "name": "LURIGANCHO",
+                "value": 3
+            },
+            {
+                "name": "LINCE",
+                "value": 10
+            },
+            {
+                "name": "LOS OLIVOS",
+                "value": 2
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 18
+            },
+            {
+                "name": "ATE",
+                "value": 10
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "value": 4
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "value": 4
+            },
+            {
+                "name": "INDEPENDENCIA",
+                "value": 1
+            },
+            {
+                "name": "LA PUNTA",
+                "value": 2
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "value": 7
+            },
+            {
+                "name": "LURIN",
+                "value": 2
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "value": 2
+            },
+            {
+                "name": "EL AGUSTINO",
+                "value": 1
+            },
+            {
+                "name": "BREÑA",
+                "value": 1
+            },
+            {
+                "name": "SAN LUIS",
+                "value": 1
+            }
+        ]
     },
     {
-        "name": "SAN BORJA",
-        "value": 1323
+        "mes": "June",
+        "distritos": [
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 376
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 14
+            },
+            {
+                "name": "MIRAFLORES",
+                "value": 506
+            },
+            {
+                "name": "BARRANCO",
+                "value": 51
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 493
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 16
+            },
+            {
+                "name": "LIMA",
+                "value": 44
+            },
+            {
+                "name": "LINCE",
+                "value": 11
+            },
+            {
+                "name": "LA MOLINA",
+                "value": 90
+            },
+            {
+                "name": "CALLAO",
+                "value": 85
+            },
+            {
+                "name": "SAN BORJA",
+                "value": 85
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 32
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "value": 3
+            },
+            {
+                "name": "SAN LUIS",
+                "value": 5
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 26
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "value": 10
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "value": 4
+            },
+            {
+                "name": "ATE",
+                "value": 18
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "value": 17
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "value": 13
+            },
+            {
+                "name": "LOS OLIVOS",
+                "value": 4
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 11
+            },
+            {
+                "name": "RIMAC",
+                "value": 1
+            },
+            {
+                "name": "BELLAVISTA",
+                "value": 3
+            },
+            {
+                "name": "SANTA ANITA",
+                "value": 1
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 13
+            },
+            {
+                "name": "BREÑA",
+                "value": 4
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "value": 1
+            },
+            {
+                "name": "LA PERLA",
+                "value": 1
+            },
+            {
+                "name": "EL AGUSTINO",
+                "value": 1
+            }
+        ]
     },
     {
-        "name": "SAN ISIDRO",
-        "value": 5793
+        "mes": "July",
+        "distritos": [
+            {
+                "name": "SAN BORJA",
+                "value": 74
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 14
+            },
+            {
+                "name": "MIRAFLORES",
+                "value": 315
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 422
+            },
+            {
+                "name": "LIMA",
+                "value": 26
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 30
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 329
+            },
+            {
+                "name": "BARRANCO",
+                "value": 55
+            },
+            {
+                "name": "NINGUNO",
+                "value": 3
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 8
+            },
+            {
+                "name": "SANTA ANITA",
+                "value": 2
+            },
+            {
+                "name": "LA MOLINA",
+                "value": 64
+            },
+            {
+                "name": "LINCE",
+                "value": 10
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 16
+            },
+            {
+                "name": "LA PUNTA",
+                "value": 2
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 34
+            },
+            {
+                "name": "CALLAO",
+                "value": 40
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "value": 11
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "value": 13
+            },
+            {
+                "name": "SAN LUIS",
+                "value": 3
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 17
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "value": 6
+            },
+            {
+                "name": "RIMAC",
+                "value": 1
+            },
+            {
+                "name": "CARMEN DE LA LEGUA REYNOSO",
+                "value": 2
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "value": 1
+            },
+            {
+                "name": "ATE",
+                "value": 5
+            },
+            {
+                "name": "LOS OLIVOS",
+                "value": 2
+            },
+            {
+                "name": "LA PERLA",
+                "value": 4
+            },
+            {
+                "name": "BREÑA",
+                "value": 3
+            },
+            {
+                "name": "COMAS",
+                "value": 1
+            },
+            {
+                "name": "BELLAVISTA",
+                "value": 3
+            }
+        ]
     },
     {
-        "name": "LA VICTORIA",
-        "value": 366
+        "mes": "August",
+        "distritos": [
+            {
+                "name": "CALLAO",
+                "value": 109
+            },
+            {
+                "name": "LA MOLINA",
+                "value": 86
+            },
+            {
+                "name": "MIRAFLORES",
+                "value": 472
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 38
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 407
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 570
+            },
+            {
+                "name": "LINCE",
+                "value": 20
+            },
+            {
+                "name": "LURIGANCHO",
+                "value": 1
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 29
+            },
+            {
+                "name": "SAN BORJA",
+                "value": 136
+            },
+            {
+                "name": "BARRANCO",
+                "value": 45
+            },
+            {
+                "name": "LIMA",
+                "value": 30
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 27
+            },
+            {
+                "name": "BREÑA",
+                "value": 3
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 15
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 27
+            },
+            {
+                "name": "ATE",
+                "value": 19
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 31
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "value": 18
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "value": 8
+            },
+            {
+                "name": "SAN LUIS",
+                "value": 4
+            },
+            {
+                "name": "LA PERLA",
+                "value": 2
+            },
+            {
+                "name": "LOS OLIVOS",
+                "value": 7
+            },
+            {
+                "name": "PACHACAMAC",
+                "value": 1
+            },
+            {
+                "name": "INDEPENDENCIA",
+                "value": 1
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "value": 2
+            },
+            {
+                "name": "SANTA ANITA",
+                "value": 5
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "value": 2
+            },
+            {
+                "name": "NINGUNO",
+                "value": 2
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "value": 3
+            }
+        ]
     },
     {
-        "name": "JESUS MARIA",
-        "value": 433
+        "mes": "September",
+        "distritos": [
+            {
+                "name": "LA MOLINA",
+                "value": 112
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 612
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 622
+            },
+            {
+                "name": "MIRAFLORES",
+                "value": 476
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 163
+            },
+            {
+                "name": "BARRANCO",
+                "value": 71
+            },
+            {
+                "name": "CALLAO",
+                "value": 103
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 25
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 38
+            },
+            {
+                "name": "SAN BORJA",
+                "value": 112
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 42
+            },
+            {
+                "name": "LIMA",
+                "value": 55
+            },
+            {
+                "name": "LINCE",
+                "value": 21
+            },
+            {
+                "name": "RIMAC",
+                "value": 8
+            },
+            {
+                "name": "PUENTE PIEDRA",
+                "value": 1
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 39
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "value": 9
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 35
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "value": 7
+            },
+            {
+                "name": "BELLAVISTA",
+                "value": 5
+            },
+            {
+                "name": "ATE",
+                "value": 6
+            },
+            {
+                "name": "BREÑA",
+                "value": 4
+            },
+            {
+                "name": "LOS OLIVOS",
+                "value": 5
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "value": 5
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "value": 2
+            },
+            {
+                "name": "CHACLACAYO",
+                "value": 1
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "value": 2
+            },
+            {
+                "name": "LURIN",
+                "value": 3
+            },
+            {
+                "name": "NINGUNO",
+                "value": 3
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "value": 4
+            },
+            {
+                "name": "CARMEN DE LA LEGUA REYNOSO",
+                "value": 1
+            },
+            {
+                "name": "SAN LUIS",
+                "value": 4
+            },
+            {
+                "name": "SANTA ANITA",
+                "value": 2
+            }
+        ]
     },
     {
-        "name": "LIMA",
-        "value": 578
+        "mes": "October",
+        "distritos": [
+            {
+                "name": "MIRAFLORES",
+                "value": 636
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 741
+            },
+            {
+                "name": "SAN BORJA",
+                "value": 172
+            },
+            {
+                "name": "ATE",
+                "value": 25
+            },
+            {
+                "name": "LA MOLINA",
+                "value": 134
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 851
+            },
+            {
+                "name": "CALLAO",
+                "value": 120
+            },
+            {
+                "name": "BARRANCO",
+                "value": 88
+            },
+            {
+                "name": "BREÑA",
+                "value": 5
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 33
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 213
+            },
+            {
+                "name": "LIMA",
+                "value": 52
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 23
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 19
+            },
+            {
+                "name": "LINCE",
+                "value": 24
+            },
+            {
+                "name": "LURIN",
+                "value": 5
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 33
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 15
+            },
+            {
+                "name": "LA PUNTA",
+                "value": 1
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "value": 3
+            },
+            {
+                "name": "INDEPENDENCIA",
+                "value": 2
+            },
+            {
+                "name": "BELLAVISTA",
+                "value": 2
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "value": 4
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "value": 12
+            },
+            {
+                "name": "NINGUNO",
+                "value": 4
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "value": 3
+            },
+            {
+                "name": "SAN LUIS",
+                "value": 3
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "value": 5
+            },
+            {
+                "name": "COMAS",
+                "value": 1
+            },
+            {
+                "name": "RIMAC",
+                "value": 4
+            },
+            {
+                "name": "LOS OLIVOS",
+                "value": 3
+            },
+            {
+                "name": "SANTA ANITA",
+                "value": 4
+            }
+        ]
     },
     {
-        "name": "SAN JUAN DE LURIGANCHO",
-        "value": 123
+        "mes": "November",
+        "distritos": [
+            {
+                "name": "BARRANCO",
+                "value": 75
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 630
+            },
+            {
+                "name": "SAN BORJA",
+                "value": 138
+            },
+            {
+                "name": "LA MOLINA",
+                "value": 133
+            },
+            {
+                "name": "MIRAFLORES",
+                "value": 595
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 23
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 764
+            },
+            {
+                "name": "BELLAVISTA",
+                "value": 1
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 21
+            },
+            {
+                "name": "LIMA",
+                "value": 80
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 199
+            },
+            {
+                "name": "LOS OLIVOS",
+                "value": 4
+            },
+            {
+                "name": "CALLAO",
+                "value": 118
+            },
+            {
+                "name": "LINCE",
+                "value": 24
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 57
+            },
+            {
+                "name": "PUNTA HERMOSA",
+                "value": 1
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 18
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 40
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "value": 7
+            },
+            {
+                "name": "ATE",
+                "value": 19
+            },
+            {
+                "name": "RIMAC",
+                "value": 16
+            },
+            {
+                "name": "BREÑA",
+                "value": 10
+            },
+            {
+                "name": "PACHACAMAC",
+                "value": 1
+            },
+            {
+                "name": "LURIN",
+                "value": 2
+            },
+            {
+                "name": "LURIGANCHO",
+                "value": 13
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "value": 10
+            },
+            {
+                "name": "CARMEN DE LA LEGUA REYNOSO",
+                "value": 7
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "value": 5
+            },
+            {
+                "name": "NINGUNO",
+                "value": 2
+            },
+            {
+                "name": "SANTA ANITA",
+                "value": 5
+            },
+            {
+                "name": "SAN LUIS",
+                "value": 1
+            },
+            {
+                "name": "EL AGUSTINO",
+                "value": 2
+            }
+        ]
     },
     {
-        "name": "SAN MIGUEL",
-        "value": 260
-    },
-    {
-        "name": "ATE",
-        "value": 236
-    },
-    {
-        "name": "CHORRILLOS",
-        "value": 293
-    },
-    {
-        "name": "BELLAVISTA",
-        "value": 118
-    },
-    {
-        "name": "BREÑA",
-        "value": 141
-    },
-    {
-        "name": "NINGUNO",
-        "value": 143
-    },
-    {
-        "name": "SURQUILLO",
-        "value": 1151
-    },
-    {
-        "name": "MAGDALENA DEL MAR",
-        "value": 225
-    },
-    {
-        "name": "LOS OLIVOS",
-        "value": 112
-    },
-    {
-        "name": "LINCE",
-        "value": 268
-    },
-    {
-        "name": "LURIGANCHO",
-        "value": 94
-    },
-    {
-        "name": "SAN LUIS",
-        "value": 87
-    },
-    {
-        "name": "PUEBLO LIBRE",
-        "value": 168
-    },
-    {
-        "name": "SAN JUAN DE MIRAFLORES",
-        "value": 157
-    },
-    {
-        "name": "PUNTA HERMOSA",
-        "value": 86
-    },
-    {
-        "name": "CARABAYLLO",
-        "value": 54
-    },
-    {
-        "name": "ANCON",
-        "value": 57
-    },
-    {
-        "name": "SANTA ROSA",
-        "value": 53
-    },
-    {
-        "name": "CIENEGUILLA",
-        "value": 746
-    },
-    {
-        "name": "PUNTA NEGRA",
-        "value": 353
-    },
-    {
-        "name": "PUCUSANA",
-        "value": 34
-    },
-    {
-        "name": "RIMAC",
-        "value": 109
-    },
-    {
-        "name": "SANTA ANITA",
-        "value": 129
-    },
-    {
-        "name": "PUENTE PIEDRA",
-        "value": 51
-    },
-    {
-        "name": "LA PUNTA",
-        "value": 88
-    },
-    {
-        "name": "SAN MARTIN DE PORRES",
-        "value": 176
-    },
-    {
-        "name": "LURIN",
-        "value": 68
-    },
-    {
-        "name": "VENTANILLA",
-        "value": 81
-    },
-    {
-        "name": "CARMEN DE LA LEGUA REYNOSO",
-        "value": 97
-    },
-    {
-        "name": "PACHACAMAC",
-        "value": 111
-    },
-    {
-        "name": "VILLA MARIA DEL TRIUNFO",
-        "value": 139
-    },
-    {
-        "name": "INDEPENDENCIA",
-        "value": 111
-    },
-    {
-        "name": "LA PERLA",
-        "value": 121
-    },
-    {
-        "name": "VILLA EL SALVADOR",
-        "value": 127
-    },
-    {
-        "name": "CHACLACAYO",
-        "value": 106
-    },
-    {
-        "name": "COMAS",
-        "value": 109
-    },
-    {
-        "name": "SAN BARTOLO",
-        "value": 77
-    },
-    {
-        "name": "EL AGUSTINO",
-        "value": 98
-    },
-    {
-        "name": "SANTA MARIA DEL MAR",
-        "value": 95
+        "mes": "December",
+        "distritos": [
+            {
+                "name": "SAN BORJA",
+                "value": 193
+            },
+            {
+                "name": "MIRAFLORES",
+                "value": 667
+            },
+            {
+                "name": "LA MOLINA",
+                "value": 165
+            },
+            {
+                "name": "SAN ISIDRO",
+                "value": 686
+            },
+            {
+                "name": "CALLAO",
+                "value": 101
+            },
+            {
+                "name": "SANTIAGO DE SURCO",
+                "value": 874
+            },
+            {
+                "name": "LA VICTORIA",
+                "value": 37
+            },
+            {
+                "name": "SURQUILLO",
+                "value": 196
+            },
+            {
+                "name": "CHORRILLOS",
+                "value": 24
+            },
+            {
+                "name": "BARRANCO",
+                "value": 95
+            },
+            {
+                "name": "JESUS MARIA",
+                "value": 41
+            },
+            {
+                "name": "NINGUNO",
+                "value": 7
+            },
+            {
+                "name": "SAN JUAN DE LURIGANCHO",
+                "value": 5
+            },
+            {
+                "name": "MAGDALENA DEL MAR",
+                "value": 30
+            },
+            {
+                "name": "LIMA",
+                "value": 45
+            },
+            {
+                "name": "SAN JUAN DE MIRAFLORES",
+                "value": 5
+            },
+            {
+                "name": "LINCE",
+                "value": 29
+            },
+            {
+                "name": "ATE",
+                "value": 22
+            },
+            {
+                "name": "BREÑA",
+                "value": 4
+            },
+            {
+                "name": "SAN MARTIN DE PORRES",
+                "value": 4
+            },
+            {
+                "name": "LOS OLIVOS",
+                "value": 6
+            },
+            {
+                "name": "SAN MIGUEL",
+                "value": 22
+            },
+            {
+                "name": "LA PERLA",
+                "value": 1
+            },
+            {
+                "name": "VILLA MARIA DEL TRIUNFO",
+                "value": 4
+            },
+            {
+                "name": "RIMAC",
+                "value": 7
+            },
+            {
+                "name": "PUEBLO LIBRE",
+                "value": 17
+            },
+            {
+                "name": "SAN LUIS",
+                "value": 5
+            },
+            {
+                "name": "LA PUNTA",
+                "value": 1
+            },
+            {
+                "name": "CHACLACAYO",
+                "value": 5
+            },
+            {
+                "name": "LURIGANCHO",
+                "value": 5
+            },
+            {
+                "name": "PUNTA HERMOSA",
+                "value": 1
+            },
+            {
+                "name": "LURIN",
+                "value": 4
+            },
+            {
+                "name": "VILLA EL SALVADOR",
+                "value": 1
+            },
+            {
+                "name": "SANTA ANITA",
+                "value": 2
+            },
+            {
+                "name": "EL AGUSTINO",
+                "value": 1
+            },
+            {
+                "name": "INDEPENDENCIA",
+                "value": 1
+            }
+        ]
     }
 ]

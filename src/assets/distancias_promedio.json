@@ -1,0 +1,50 @@
+[
+    {
+        "mes": "January",
+        "promedio_distancia": 7448.558035714285
+    },
+    {
+        "mes": "February",
+        "promedio_distancia": 33096.25257731959
+    },
+    {
+        "mes": "March",
+        "promedio_distancia": 9112.536813922356
+    },
+    {
+        "mes": "April",
+        "promedio_distancia": 8972.521140609637
+    },
+    {
+        "mes": "May",
+        "promedio_distancia": 8559.572953736655
+    },
+    {
+        "mes": "June",
+        "promedio_distancia": 9225.748064743138
+    },
+    {
+        "mes": "July",
+        "promedio_distancia": 8956.214405360133
+    },
+    {
+        "mes": "August",
+        "promedio_distancia": 8847.939124920735
+    },
+    {
+        "mes": "September",
+        "promedio_distancia": 8017.631168831169
+    },
+    {
+        "mes": "October",
+        "promedio_distancia": 8058.388566694283
+    },
+    {
+        "mes": "November",
+        "promedio_distancia": 33341.176397515526
+    },
+    {
+        "mes": "December",
+        "promedio_distancia": 18521.39247943596
+    }
+]
